@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>117.jpg</filename>
+	<path>D:\Documents\School\Year 4\CSE282 Capstone\images\117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>169</ymin>
+			<xmax>491</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>235</ymin>
+			<xmax>600</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

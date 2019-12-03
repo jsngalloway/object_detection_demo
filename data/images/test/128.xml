@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>128.jpg</filename>
+	<path>D:\Documents\School\Year 4\CSE282 Capstone\images\128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>276</ymin>
+			<xmax>126</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
