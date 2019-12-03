@@ -1,122 +1,86 @@
 <annotation>
-	<folder>images_to_label</folder>
-	<filename>index_06.jpg</filename>
-	<path>D:\Documents\School\Year 4\CSE282 Capstone\images_to_label\index_06.jpg</path>
+	<folder>images</folder>
+	<filename>6.jpg</filename>
+	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1280</width>
-		<height>720</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>date</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>259</xmin>
-			<ymin>354</ymin>
-			<xmax>367</xmax>
-			<ymax>465</ymax>
+			<xmin>286</xmin>
+			<ymin>248</ymin>
+			<xmax>503</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>date</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>259</xmin>
-			<ymin>483</ymin>
-			<xmax>387</xmax>
-			<ymax>602</ymax>
+			<xmin>28</xmin>
+			<ymin>292</ymin>
+			<xmax>243</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>279</xmin>
-			<ymin>599</ymin>
-			<xmax>415</xmax>
-			<ymax>720</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>95</xmin>
-			<ymin>677</ymin>
-			<xmax>195</xmax>
-			<ymax>720</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
+		<name>fig</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>966</xmin>
-			<ymin>398</ymin>
-			<xmax>1113</xmax>
-			<ymax>515</ymax>
+			<xmin>497</xmin>
+			<ymin>240</ymin>
+			<xmax>643</xmax>
+			<ymax>455</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>hazelnut</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1119</xmin>
-			<ymin>539</ymin>
-			<xmax>1270</xmax>
-			<ymax>668</ymax>
+			<xmin>339</xmin>
+			<ymin>116</ymin>
+			<xmax>409</xmax>
+			<ymax>212</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>hazelnut</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>910</xmin>
-			<ymin>22</ymin>
-			<xmax>974</xmax>
-			<ymax>92</ymax>
+			<xmin>115</xmin>
+			<ymin>141</ymin>
+			<xmax>226</xmax>
+			<ymax>248</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>hazelnut</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>212</xmin>
-			<ymin>22</ymin>
-			<xmax>289</xmax>
-			<ymax>86</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>278</xmin>
-			<ymin>1</ymin>
-			<xmax>353</xmax>
-			<ymax>61</ymax>
+			<xmin>587</xmin>
+			<ymin>332</ymin>
+			<xmax>706</xmax>
+			<ymax>420</ymax>
 		</bndbox>
 	</object>
 </annotation>
